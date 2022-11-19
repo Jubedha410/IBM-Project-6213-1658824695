@@ -1,1 +1,8 @@
-
+This is the IBM Project Final Deliverables
+In this folder, there is a convoluted neural network named Forest_fire_cnn_model.tar which is stored in compressed form
+Model buliding codes and video analysis code are in jupter notebook format
+App.py contains the flask integration of the website with cnn model and video analysis with twilio sms services
+Dataset folder contains of both training and testing datas which are pre-classified
+The final report contains the literature survey and other documents which we previously did in this project.
+Templates folder contains a html page called 'index.html'
+Static folder contains css stylesheet and the images used in website
